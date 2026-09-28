@@ -1,0 +1,4 @@
+Product ID,Product Name,Division,Sales,Units,Gross_Profit,Cost,Orders,Factory,Gross_Margin_Pct,Profit_per_Unit,Revenue_Contribution_Pct,Profit_Contribution_Pct,Portfolio_Class,Margin_Volatility_Ppt
+OTH-LIC-15000,Lickable Wallpaper,Other,7860.0,393,3930.0,3930.0,92,Secret Factory,50.0,10.0,5.543658319370156,4.205781504835043,High Sales / Low Margin,0.0
+OTH-KAZ-38000,Kazookles,Other,1205.75,371,92.75,1113.0,94,The Other Factory,7.6923076923076925,0.25,0.8504155239924384,0.09925858386092881,High Sales / Low Margin,0.0
+OTH-GUM-21000,Wonka Gum,Other,597.5,478,310.7,286.8,118,Secret Factory,52.0,0.65,0.4214167742778203,0.33250287876647533,High Sales / Low Margin,2.0511601988091347e-15

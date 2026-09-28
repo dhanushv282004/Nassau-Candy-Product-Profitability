@@ -1,0 +1,16 @@
+KPI,Value,Unit
+Dataset rows,10194.0,count
+Original columns,18.0,count
+Unique products,15.0,count
+Total sales,141783.63,sales units
+Total gross profit,93442.8,profit units
+Overall gross margin,65.90521063679918,%
+Median product sales,597.5,sales units
+Median product gross margin,62.31155778894474,%
+Top 5 revenue contribution,92.88300772099007,%
+Top 5 profit contribution,95.05774655725213,%
+Products to reach 80% revenue,5.0,products
+Products to reach 80% profit,5.0,products
+High-sales/low-margin products,3.0,products
+Mean product margin volatility,2.1687919880658924e-15,percentage points
+Product cost-sales Pearson r,0.9912355295068698,correlation
